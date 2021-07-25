@@ -1,0 +1,10 @@
+eclipse.preferences.version=1
+encoding//WebRoot/manage.jsp=UTF-8
+encoding//WebRoot/manage/alt.jsp=UTF-8
+encoding//WebRoot/manage/del.jsp=UTF-8
+encoding//src/com/shop/controller/ActiveServlet.java=UTF-8
+encoding//src/com/shop/controller/LoginServlet.java=UTF-8
+encoding//src/com/shop/dao/ProductDao.java=UTF-8
+encoding//src/com/shop/dao/UserDao.java=UTF-8
+encoding//src/com/shop/pojo/User.java=UTF-8
+encoding//src/com/shop/service/ProductService.java=UTF-8
